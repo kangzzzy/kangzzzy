@@ -43,7 +43,7 @@
 
 ![Repository languages](assets/languages.svg)
 
-<sub>본인 소유의 공개·비공개 저장소(포크 포함)에서 감지된 언어 · 코드 용량 기준 · 매일 자동 갱신</sub>
+<sub>개인 및 접근 가능한 모든 조직의 공개·비공개 저장소(포크 포함) · 코드 용량 기준 · 매일 자동 갱신</sub>
 
 **Robotics & Control**<br>
 ![ABB RAPID](https://img.shields.io/badge/ABB_RAPID-176B5A?style=flat-square)
