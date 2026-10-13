@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="58" viewBox="0 0 290 58" role="img" aria-label="Areas of Interest: Robotics and Control Systems">
+<style>.label{fill:#78859e}.surface{fill:#f5f7ff;stroke:#d8e0fb}.text{fill:#344774}.orbit{stroke:#7589cf}@media(prefers-color-scheme:dark){.label{fill:#9caac4}.surface{fill:#192239;stroke:#354567}.text{fill:#d3ddff}.orbit{stroke:#97aaff}}</style>
+<text class="label" x="2" y="10" font-family="Segoe UI,Arial,sans-serif" font-size="8" font-weight="600" letter-spacing="1.7">AREAS OF INTEREST</text>
+<rect class="surface" x=".5" y="20.5" width="289" height="33" rx="16.5"/>
+<g class="orbit" fill="none" stroke-width="1"><ellipse cx="22" cy="37" rx="9" ry="4.5" transform="rotate(-35 22 37)"/><circle cx="22" cy="37" r="2"/></g>
+<text class="text" x="40" y="41.5" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="500">Robotics &amp; Control Systems</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="72" viewBox="0 0 210 72" role="img" aria-label="Portfolio: Coming soon">
+  <style>.label{fill:#78859e}.text{fill:#576681}.dot{fill:#a8b7d7}@media(prefers-color-scheme:dark){.label{fill:#9caac4}.text{fill:#b4c1da}.dot{fill:#768bb7}}</style>
+  <text class="label" x="2" y="20" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">PORTFOLIO</text>
+  <circle class="dot" cx="5" cy="41" r="3"/>
+  <text class="text" x="17" y="46" font-family="Segoe UI,Arial,sans-serif" font-size="16">Coming soon</text>
+</svg>

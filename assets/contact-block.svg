@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="72" viewBox="0 0 270 72" role="img" aria-label="Contact: ollbammm@gmail.com — compose email">
+  <style>.label{fill:#78859e}.link{fill:#315bff}.arrow{stroke:#8399e8}@media(prefers-color-scheme:dark){.label{fill:#9caac4}.link{fill:#a5baff}.arrow{stroke:#a5baff}}</style>
+  <text class="label" x="2" y="20" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">CONTACT</text>
+  <text class="link" x="2" y="46" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="500">ollbammm@gmail.com</text>
+  <path class="arrow" d="M218 45l8-8m-7 0h7v7" fill="none" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
