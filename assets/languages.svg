@@ -4,20 +4,22 @@
 <style>text{font-family:Segoe UI,Arial,sans-serif;fill:#18243d}.muted{fill:#61759a}.track{fill:#eef2ff}.bg{fill:#fff;stroke:#dce3f5}@media(prefers-color-scheme:dark){text{fill:#e6edf3}.muted{fill:#a5b4d3}.track{fill:#202d48}.bg{fill:#0d1117;stroke:#30363d}}</style>
 <rect class="bg" x="0.5" y="0.5" width="519" height="113" rx="12"/>
 <text x="20" y="28" font-size="16" font-weight="600">Repository languages</text>
-<text class="muted" x="20" y="47" font-size="11">Personal + organizations · public + private · ≥1% each</text>
 <circle cx="22" cy="69" r="2" fill="#315bff"/>
 <text x="30" y="72" font-size="10">C++</text>
-<text class="muted" x="168" y="72" text-anchor="end" font-size="10">59.8%</text>
+<text class="muted" x="168" y="72" text-anchor="end" font-size="10">76.9%</text>
 <circle cx="186" cy="69" r="2" fill="#315bff"/>
-<text x="194" y="72" font-size="10">C</text>
-<text class="muted" x="332" y="72" text-anchor="end" font-size="10">23.3%</text>
+<text x="194" y="72" font-size="10">JavaScript</text>
+<text class="muted" x="332" y="72" text-anchor="end" font-size="10">10.0%</text>
 <circle cx="350" cy="69" r="2" fill="#315bff"/>
-<text x="358" y="72" font-size="10">Python</text>
-<text class="muted" x="496" y="72" text-anchor="end" font-size="10">9.7%</text>
+<text x="358" y="72" font-size="10">Kotlin</text>
+<text class="muted" x="496" y="72" text-anchor="end" font-size="10">4.0%</text>
 <circle cx="22" cy="91" r="2" fill="#315bff"/>
-<text x="30" y="94" font-size="10">C#</text>
-<text class="muted" x="168" y="94" text-anchor="end" font-size="10">3.3%</text>
+<text x="30" y="94" font-size="10">Java</text>
+<text class="muted" x="168" y="94" text-anchor="end" font-size="10">3.5%</text>
 <circle cx="186" cy="91" r="2" fill="#315bff"/>
-<text x="194" y="94" font-size="10">JavaScript</text>
-<text class="muted" x="332" y="94" text-anchor="end" font-size="10">1.3%</text>
+<text x="194" y="94" font-size="10">Python</text>
+<text class="muted" x="332" y="94" text-anchor="end" font-size="10">2.0%</text>
+<circle cx="350" cy="91" r="2" fill="#315bff"/>
+<text x="358" y="94" font-size="10">Makefile</text>
+<text class="muted" x="496" y="94" text-anchor="end" font-size="10">1.1%</text>
 </svg>
