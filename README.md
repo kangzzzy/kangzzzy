@@ -5,8 +5,6 @@
   </picture>
 </p>
 
-![Areas of Interest: Robotics & Control Systems](assets/interests.svg)
-
 <p>
   <a href="mailto:ollbammm@gmail.com"><img src="assets/contact-block.svg" alt="Contact: ollbammm@gmail.com" width="270" height="72" align="top"></a>
   <img src="assets/portfolio-block.svg" alt="Portfolio: Coming soon" width="210" height="72" align="top">
