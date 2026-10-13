@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100" role="img" aria-labelledby="title desc">
 <title id="title">Jiyeon Kang</title><desc id="desc">Robotics and control systems engineer. Orbital illustration.</desc>
 <defs><linearGradient id="wash" x2="1" y2="1"><stop stop-color="#f6f4ff"/><stop offset="1" stop-color="#fafaff"/></linearGradient></defs>
-<rect width="900" height="280" rx="16" fill="url(#wash)"/>
+<rect width="900" height="100" rx="10" fill="url(#wash)"/>
+<g transform="translate(135 -80.15) scale(.95)">
 <g fill="none" stroke="#8878f5" stroke-width="1.2" opacity=".65">
 <ellipse cx="747" cy="137" rx="122" ry="62" transform="rotate(-42 747 137)"/>
 <ellipse cx="747" cy="137" rx="101" ry="42" transform="rotate(-42 747 137)"/>
@@ -9,6 +10,7 @@
 <g fill="#8878f5"><circle cx="828" cy="51" r="8"/><circle cx="655" cy="213" r="2"/><circle cx="845" cy="190" r="2"/><circle cx="682" cy="44" r="2"/>
 <path d="M764 70l4 13 13 4-13 4-4 13-4-13-13-4 13-4z"/><path d="M714 145l5 6-5 6-5-6z"/></g>
 <circle cx="686" cy="196" r="7" fill="none" stroke="#8878f5" stroke-width="2"/>
-<text x="40" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2" fill="#111a30">Jiyeon Kang</text>
-<text x="43" y="177" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2" fill="#61759a">ROBOTICS &amp; CONTROL SYSTEMS ENGINEER</text>
+</g>
+<text x="30" y="40" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="0" fill="#111a30">Jiyeon Kang</text>
+<text x="30" y="67" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing=".5" fill="#61759a">ROBOTICS &amp; CONTROL SYSTEMS ENGINEER</text>
 </svg>
